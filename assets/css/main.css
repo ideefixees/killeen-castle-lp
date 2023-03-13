@@ -2485,6 +2485,12 @@ section.summer{
 			padding-top: 0;
 		}
 
+		.reslogo {
+			width: 45%;
+			text-align: center;
+			display: none;
+		}	
+
 /* Header
 
 	#header {
@@ -3098,6 +3104,16 @@ span.txt {
 	@media screen and (max-width: 736px) {
 
 		/* Basic */
+
+		.reslogo {
+			width: 100%;
+			text-align: center;
+			display: inline-block;
+		}
+		.reslogo img {
+			width: 40%!important;
+			text-align: center;
+		}
 
 			html, body {
 				overflow-x: hidden;
