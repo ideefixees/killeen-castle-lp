@@ -2054,6 +2054,15 @@ section.summer{
 			.ratedivtxt{
 				font-size: 45px;
 			}
+			.home-head p {
+				text-align: center;
+			}
+			body.homepage #header {
+				min-height: 0;
+				padding: 5.5em 0 5em 0;
+				height: auto;
+				padding-bottom: 0;
+			}
 		}
 
 /* Sections/Article 
@@ -3043,16 +3052,16 @@ section#banner p {
 
 	}
 	div#footer ul li span {
-    display: inline-block;
-    padding-right: 15px;
-    width: 30px;
-}
-span.txt {
-    display: inline-block;
-    width: 80%!important;
-    vertical-align: top;
-    line-height: 36px;
-}
+		display: inline-block;
+		padding-right: 15px;
+		width: 30px;
+	}
+	span.txt {
+		display: inline-block;
+		width: 80%!important;
+		vertical-align: top;
+		line-height: 36px;
+	}
 
 /* Narrow */
 
