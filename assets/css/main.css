@@ -2055,6 +2055,10 @@ section.summer{
 				font-size: 45px;
 			}
 			.home-head p {
+				font-family: arial;
+				display: inline-block;
+				width: 100%;
+				margin-top: 20px;
 				text-align: center;
 			}
 			body.homepage #header {
