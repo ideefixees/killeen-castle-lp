@@ -273,7 +273,7 @@ input, select, textarea {
 .locationdiv {
     font-family: 'Arial';
     font-style: normal;
-    font-weight: 700;
+    font-weight: 500;
     font-size: 16px;
     line-height: 32px;
     display: inline-block;
@@ -284,6 +284,9 @@ input, select, textarea {
 }
 .mapico {
     display: inline-block;
+}
+.mapico	img {
+width: 15px;
 }
 .rateand-btn {
     display: inline-block;
