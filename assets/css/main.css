@@ -3552,7 +3552,7 @@ body .slick-next:before{
     height: 59px;
     background-repeat: no-repeat;
     position: absolute;
-    right: -28px;
+    right: -23px;
 } 
 body .slick-prev:before{
     content: "";
@@ -3561,7 +3561,7 @@ body .slick-prev:before{
     height: 59px;
     background-repeat: no-repeat;
     position: absolute;
-    left: 30px;
+    left: 23px;
 }
 body .slick-prev {
   left: -2%;
