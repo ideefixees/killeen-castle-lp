@@ -3610,6 +3610,12 @@ body .slick-dots li.slick-active button {
     width: 100%;
 }
 
+.cotent-star p {
+    
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+
 .text-area-div {
        color: #181A22;
     font-family: 'Arial';
