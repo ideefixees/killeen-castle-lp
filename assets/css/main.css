@@ -3611,11 +3611,11 @@ body .slick-dots li.slick-active button {
 }
 
 .cotent-star p {
-    
-    font-family: 'Poppins', sans-serif;
-    font-size: 14px;
+   font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    line-height: 1.3em;
+    font-weight: 400;
 }
-
 .text-area-div {
        color: #181A22;
     font-family: 'Arial';
