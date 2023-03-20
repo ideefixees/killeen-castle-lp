@@ -409,12 +409,12 @@ span.change-color {
 	line-height: 32px;
 }
 section.lodges {
-   		 background: url(../img/kc-Hunters Yard lodges.png);
+   		 background: url(../img/kc-hunters.png);
     	background-size: cover;
     	background-repeat: no-repeat;
 }
 section.rose {
-		background: url(../img/cottage.png);
+		background: url(../img/kc-rose.png);
 		background-size: cover;
 		margin-bottom: 0;
 		padding-top: 50px;
