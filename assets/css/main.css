@@ -409,7 +409,7 @@ span.change-color {
 	line-height: 32px;
 }
 section.lodges {
-   		 background: url(/img/Standard-Double.webp);
+   		 background: url(../img/Standard-Double.webp);
     	background-size: cover;
     	background-repeat: no-repeat;
 }
